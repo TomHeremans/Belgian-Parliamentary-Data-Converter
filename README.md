@@ -3,7 +3,7 @@ This page contains notebooks that prepare parliamentary data of the Belgian Cham
 
 # What does this page contain
 * Notebooks that make data analysis possible
-* Speaker lists which link different versions of names with standardized ones and parties
+* Speaker lists which link different versions of names with standardized ones and parties.
 * Code that groups the session files per legislature
 * A small PDF file with guidelines and explanation.
 
@@ -14,6 +14,10 @@ This page contains notebooks that prepare parliamentary data of the Belgian Cham
 * The excel file that connects the sessions with correct legislature. Ask the instances for the correct linkage.
 
 # Disclaimer
+
+At the moment of writing the speaker lists are complete for the legislatures 33 till 42 and 46 till 49. You can always help by expanding it. Empty lists are present in the folder and the existing party/affiliation abbreviations are shown in the PDF. This is important to gain some consistancy. Mistakes are possibly present. Contact me if you have remarks and/or attributions: [Tom Heremans mail](mailto:tomheremans2002@gmail.com)
+
+This was made possible due to the course Text Mining part of the Master Digital Text Analysis at the University of Antwerp. 
 
 Copyright of original source material is attributed to TextGain and [Kamer van volksvertegenwoordigers|Chambre des représentants|Abgeordnetenkammer](www.dekamer.be).
   
