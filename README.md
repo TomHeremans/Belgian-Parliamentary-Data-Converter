@@ -19,6 +19,6 @@ At the moment of writing the speaker lists are complete for the legislatures 33 
 
 This was made possible due to the course Text Mining part of the Master Digital Text Analysis at the University of Antwerp. 
 
-Copyright of original source material is attributed to TextGain and [Kamer van volksvertegenwoordigers|Chambre des représentants|Abgeordnetenkammer](www.dekamer.be).
+Copyright of original source material is attributed to TextGain and [Kamer van volksvertegenwoordigers|Chambre des représentants|Abgeordnetenkammer](https://www.dekamer.be).
   
 
